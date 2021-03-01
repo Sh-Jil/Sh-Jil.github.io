@@ -2,14 +2,14 @@
 title: Sh'Jil
 description: Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://shijil.weebly.com/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Sh'Jil
 user_description: I\'m a noob Student, Who loves coding , always searching for the next challenge, No Challenge is too difficult if you work smart;
 user_title: Sh'Jil
 email: likemeshijil@gmail.com
-# twitter_username: Shijil56
-# github_username:  Sh-Jil
+twitter_username: Shijil56
+github_username:  Sh-Jil
 
 exclude: ['package.json', 'src' , 'node_modules']
