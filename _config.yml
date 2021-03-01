@@ -13,3 +13,5 @@ twitter_username: Shijil56
 github_username:  Sh-Jil
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+theme: jekyll-theme-cayman
